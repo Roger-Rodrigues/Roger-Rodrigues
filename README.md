@@ -31,5 +31,5 @@ Atualmente, estou transitando minha carreira para **Data Science** e **Finanças
 
 ---
 <div align="center">
-  <i>"In God we trust. All others must bring data." — W. Edwards Deming</i>
+  <i>:)</i>
 </div>
