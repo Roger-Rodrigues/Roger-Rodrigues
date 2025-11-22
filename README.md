@@ -3,7 +3,7 @@
 ## 🚀 Sobre Mim
 Sou estudante de **Engenharia Mecânica-Aeronáutica no ITA (Instituto Tecnológico de Aeronáutica)**, apaixonado por resolver problemas complexos unindo matemática avançada e tecnologia.
 
-Atualmente, estou transitando minha carreira para **Data Science** e **Finanças Quantitativas**, aplicando o rigor analítico da engenharia na modelagem de dados financeiros e de risco.
+Atualmente, estou transitando minha carreira para **Data Science** e **Finanças Quantitativas**, aplicando o rigor analítico da engenharia na modelagem de dados e gestão de risco.
 
 ## 🛠 Tech Stack
 
