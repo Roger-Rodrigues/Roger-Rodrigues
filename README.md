@@ -15,20 +15,21 @@ Liderei a equipe responsável por organizar e integrar os dados e os departament
 ## Agora
 
 - 📐 **Análise de regressão** (GED-16, ITA): MQO, inferência, diagnóstico de resíduos e multicolinearidade, com aplicação em R e Python num projeto sobre educação.
-- 🐍 **Python e SQL para dados:** Pandas, SQL Server e window functions.
+- 📈 **[betas-b3](https://github.com/Roger-Rodrigues/betas-b3):** estimando o beta de ações da B3 com regressão, diagnóstico de resíduos e betas móveis *(em andamento)*.
+- 🐍 **Python e SQL para dados:** Pandas, window functions e DuckDB.
 - 🎲 **Probabilidade para quant:** problemas do *Green Book*.
 
 ## Próximo
 
-- **Microdados do ENEM** (dez/2026): pipeline em SQL Server + Pandas e modelos de regressão sobre os determinantes do desempenho.
+- **Microdados do ENEM** (dez/2026): pipeline em DuckDB (SQL) + Pandas e modelos de regressão sobre os determinantes do desempenho.
 - **Machine learning aplicado** (2027): validação rigorosa, comparação de modelos e um projeto quant com séries temporais.
 
-Os projetos ficam em [quant-ds-portfolio](https://github.com/Roger-Rodrigues/quant-ds-portfolio).
+Cada projeto tem repositório próprio (fixados acima); exercícios e anotações em código ficam em [data-science-studies](https://github.com/Roger-Rodrigues/data-science-studies).
 
 ## Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
